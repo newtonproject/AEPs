@@ -11,7 +11,7 @@ Created: 2022-08-04
 
 ## Abstract
 
-NEP-56 defines the URI format for storage mechanism. Describes a region code.
+NEP-56 defines the URI format for universal storage mechanism. Describes a region code.
 
 ## Motivation
 
@@ -20,6 +20,6 @@ NEP repository does not want to deal with assigning the values for various regio
 
 ## Registered region code
 
-Region code | Protocol    | Application    | Server
+Region code | Protocol    | Application    | Endpoints
 ------------|-------------|----------------|--------------    
 1           | IPFS        | Wave           | [wavemall](https://ipfs.wavemall.io/)   

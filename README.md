@@ -1,6 +1,6 @@
 # Application Evolution Proposals (AEPs)
 
-Newton Applications need a way how to document their technical decisions and features. 
+Applications need a way how to document their technical decisions and features. 
 
 AEP repository is an extension to Newton Evolution Proposal (NEP) process and contains the documents that are unsuitable for submission to NEP repository.
 
