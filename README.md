@@ -9,4 +9,3 @@ Each AEP should provide a concise technical specification of the feature and a r
 | Number                  | Title                                                                 | Type          | Status   |
 |-------------------------|-----------------------------------------------------------------------|---------------|----------|
 | [AEP-0](AEP-0.md)       | AEP Template                                                          | Informational | Accepted |
-| [AEP-45](AEP-54.md)     | Registered region code for NEP-54                                     | Standard      | Draft    |
