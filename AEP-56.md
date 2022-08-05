@@ -22,4 +22,4 @@ NEP repository does not want to deal with assigning the values for various regio
 
 Region code | Protocol    | Application    | Endpoints
 ------------|-------------|----------------|--------------    
-1           | IPFS        | Wave           | [wavemall](https://ipfs.wavemall.io/)   
+1           | IPFS        | Wave           | `https://ipfs.wavemall.io/`
