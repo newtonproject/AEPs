@@ -5,7 +5,7 @@ Number:  AEP-56
 Title:   Registered region code for NEP-56
 Type:    Standard
 Status:  Draft
-Authors: [Xia Wu](https://github.com/xiawu), [Qu Jianwei](https://github.com/i29), [Wei Xuefeng](https://github.com/weixuefeng), [Piao Yu](https://github.com/Jonny621)
+Authors: [Piao Yu](https://github.com/Jonny621), [Xia Wu](https://github.com/xiawu), [Qu Jianwei](https://github.com/i29), [Wei Xuefeng](https://github.com/weixuefeng)
 Created: 2022-08-04
 ```
 
@@ -22,4 +22,4 @@ NEP repository does not want to deal with assigning the values for various regio
 
 Region code | Protocol    | Application    | Endpoints
 ------------|-------------|----------------|--------------    
-1           | IPFS        | Wave           | `https://ipfs.wavemall.io/`
+rc-0        | IPFS        | Wave           | `https://ipfs.wavemall.io/`
